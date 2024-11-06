@@ -1,5 +1,3 @@
-# CS425-Distributed-Systems
-## This is the implementation of MP 2 problem for fall 2024.
 
 ## General Information:
 1. The introducer should be up and running for any node to join the network.
