@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.grepclient.AppTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.065 s <<< FAILURE! - in com.grepclient.AppTest
+shouldCheckFrequentPattern(com.grepclient.AppTest)  Time elapsed: 0.05 s  <<< FAILURE!
+java.lang.AssertionError: expected:<4> but was:<0>
+	at com.grepclient.AppTest.shouldCheckFrequentPattern(AppTest.java:49)
+
+shouldCheckPartialFrequentPattern(com.grepclient.AppTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: expected:<4> but was:<0>
+	at com.grepclient.AppTest.shouldCheckPartialFrequentPattern(AppTest.java:95)
+
+shouldCheckRegexPattern(com.grepclient.AppTest)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.AssertionError: expected:<4> but was:<0>
+	at com.grepclient.AppTest.shouldCheckRegexPattern(AppTest.java:118)
+
+shouldCheckRarePattern(com.grepclient.AppTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: expected:<4> but was:<0>
+	at com.grepclient.AppTest.shouldCheckRarePattern(AppTest.java:72)
+
+shouldCheckOneFilePattern(com.grepclient.AppTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: expected:<1> but was:<0>
+	at com.grepclient.AppTest.shouldCheckOneFilePattern(AppTest.java:25)
+

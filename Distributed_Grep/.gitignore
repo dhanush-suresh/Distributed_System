@@ -1,0 +1,3 @@
+copy_files.sh
+grepserver/log_files/
+grepclient/output/
