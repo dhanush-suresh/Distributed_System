@@ -1,6 +1,3 @@
-# CS425-Distributed-Systems
-## This is the implementation of CS425 MP problems for fall 2024.
-
 ## General Information:
 - The input should be of the format grep options "phrase"
 
